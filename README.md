@@ -1,6 +1,23 @@
 # laravel-book-store
 CRUD application in Laravel.
 
+This is a simple Laravel application to manage a bookstore.
+
+## Operations available:
+
+- `Create` - Add new books
+- `Read` - View books details
+- `Update` - Edit books details
+- `Delete` - Delete books
+
+#### Useful command lines:
+
+- `laravel new [PROJECT NAME]` - to create a project via Laravel Installer
+- `composer create-project --prefer laravel/laravel [PROJECT NAME]` - to create a project via Composer
+- `php artisan route:list` - to see routes list
+- `php artisan make:controller [CONTROLLER NAME]` - to create a controller
+- `php artisan make:controller --resource [CONTROLLER NAME]` - to create a controller with CRUD functions set
+
 
 # Laravel PHP Framework
 
